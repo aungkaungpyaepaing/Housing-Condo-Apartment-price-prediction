@@ -1,3 +1,5 @@
+<h1>Housing Condo Apartment price prediction using Linear Regression</h1>
+
 Housing price prediction is a really popular project and many people have tried to do that in many different ways already. So I decided to try it out by myself, so when I tried to find for house pricing dataset, I came across a dataset called “Bangkok Housing Condo Apartment Prices”. Since I’m currently living in Bangkok, that one got my attention but later I realized it said “Please note that the dataset provided here is a simulated dataset created for demonstration purposes, and the prices and property details do not represent actual market values.” Well anyway, let’s talk about my progress.
 
 This code include following step
@@ -6,8 +8,6 @@ This code include following step
 
 <h2>Training and Testing Models</h2>
 <img width="676" alt="image" src="https://github.com/aungkaungpyaepaing/Housing-Condo-Apartment-price-prediction/assets/88584127/583f72c7-1bae-4f64-ad0c-5a37241bb4cc">
-
-
 <img width="181" alt="image" src="https://github.com/aungkaungpyaepaing/Housing-Condo-Apartment-price-prediction/assets/88584127/222b3099-7298-49aa-bdef-c9572d8282d2">
 
 <h2>Model Evaluation</h2>
